@@ -2,7 +2,7 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fce4ec;
+  background-color: #e6f9ec; /* verde pastel suave */
 }
 
 .screen {
@@ -30,7 +30,7 @@ body {
 }
 
 .key {
-  background-color: #f8bbd0;
+  background-color: #b2e5c6; /* verde pastel para botones */
   border: none;
   border-radius: 10px;
   font-size: 20px;
@@ -40,7 +40,7 @@ body {
 }
 
 .key:hover {
-  background-color: #f48fb1;
+  background-color: #8fd4b2; /* verde pastel más intenso al pasar el mouse */
 }
 
 .input-display {
@@ -50,8 +50,8 @@ body {
 }
 
 .notepad {
-  background-color: #fff0f6;
-  border: 3px solid #f8bbd0;
+  background-color: #f6fff8; /* fondo bloc de notas verde muy claro */
+  border: 3px solid #b2e5c6; /* borde verde pastel */
   padding: 20px;
   border-radius: 20px;
   width: 90%;
